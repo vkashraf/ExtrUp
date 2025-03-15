@@ -25,7 +25,7 @@
             "label": "X-Job",
             "altText": "Blog",
             "url": "/blog",
-            "icon": "chevronLeft",
+            "icon": "arrowUp",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
