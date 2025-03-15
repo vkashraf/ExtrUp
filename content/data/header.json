@@ -16,7 +16,7 @@
         {
             "label": "Home",
             "altText": "Blog",
-            "url": "/home",
+            "url": "/Home",
             "icon": "arrowUp",
             "iconPosition": "right",
             "style": "secondary",
