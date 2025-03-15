@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: About This Offer
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "Are You Looking for a Professional\nFacebook Ads Campaign Manager to Run Profitable Facebook Ads Campaign\nfor Your Business to Generate More Sales or Quality Leads?\n\n**YES, THIS GIG IS PERFECT FOR YOU!**\n\n**Have You Been Thinking How You Can Set Up A Successful Facebook Ads Campaign ?**\n\nIf you're looking for an Experienced Marketer To Make Your Brand Shine Through Smart Marketing Strategy & Funnel.\n\nWe Can Help You Get There!\n\n**My Advertising Expertise Is In:**\n\n*   Facebook ads campaign & Instagram ads\n\n*   Keyword Research\n\n*   Target Audience with Demographics, Interests & Behaviors\n\n*   Writing Eye-catching Ads Copies\n\n*   Pixel Tracking Setup\n\n*   Re-Targeting & Lookalike Audience.\n\n*   Setup Business Manager a to z.\n\n**Campaigns Which I Can Run:**\n\n*   Website Traffic/ Click\n\n*   Promote Page for likes\n\n*   Conversion ads\n\n*   Post Engagement Ads\n\n*   Video Views Ads\n\n*   App Install Ads\n\n\_\n\n**Requirements:**\n\nYou\nwill have to give me partner or admin access to your FB business\nmanager account. If you don't know or need help to create one, we will\nhave to meet on zoom screen sharing meeting after we have started the\norder.\n\nGet a free consultation!\n\nI am just a click away. Let's have a few words!\n"
     actions:
       - label: Get started
         altText: ''
