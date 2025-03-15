@@ -2,17 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: DividerSection
-    title: 'Divider==HIGHT '
-    elementId: GFDGF
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
   - type: GenericSection
     title:
       text: I will setup facebook ads campaign for leads and sales
