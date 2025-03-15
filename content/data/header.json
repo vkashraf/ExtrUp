@@ -22,25 +22,6 @@
             "type": "Link"
         },
         {
-            "label": "X-Job",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowUp",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "showIcon": false
-        },
-        {
-            "label": "Profile",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "SubNav",
             "label": "Dropdown",
             "altText": "Dropdown",
@@ -80,6 +61,25 @@
                 }
             ],
             "labelStyle": "secondary"
+        },
+        {
+            "label": "X-Job",
+            "altText": "Blog",
+            "url": "/blog",
+            "icon": "arrowUp",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "showIcon": false
+        },
+        {
+            "label": "Profile",
+            "altText": "Careers page",
+            "url": "/careers",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [
