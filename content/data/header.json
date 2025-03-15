@@ -14,17 +14,6 @@
     },
     "primaryLinks": [
         {
-            "type": "Button",
-            "label": "Home",
-            "altText": "",
-            "url": "/tutut",
-            "showIcon": false,
-            "icon": "",
-            "iconPosition": "left",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "label": "X-Offer",
             "url": "/pricing",
             "icon": "arrowRight",
