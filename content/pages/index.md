@@ -5,7 +5,7 @@ sections:
   - type: DividerSection
     title: 'Divider==HIGHT '
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
