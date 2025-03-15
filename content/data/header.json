@@ -16,7 +16,7 @@
         {
             "type": "SubNav",
             "label": "X-Job",
-            "altText": "Home",
+            "altText": "X-Job",
             "links": [
                 {
                     "type": "Link",
