@@ -8,30 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: About This Offer
-    text: >+
+    text: |
       Are You Looking for a Professional
-
       Facebook Ads Campaign Manager to Run Profitable Facebook Ads Campaign
-
       for Your Business to Generate More Sales or Quality Leads?
 
-
-      **YES, THIS GIG IS PERFECT FOR YOU!**
-
-
-      **Have You Been Thinking How You Can Set Up A Successful Facebook Ads
-      Campaign ?**
-
-
-      If you're looking for an Experienced Marketer To Make Your Brand Shine
-      Through Smart Marketing Strategy & Funnel.
-
-
-      We Can Help You Get There!
-
-
-      **My Advertising Expertise Is In: SEE MORE..**
-
+       **SEE MORE..**
     actions:
       - label: Contract
         altText: ''
