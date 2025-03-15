@@ -32,7 +32,7 @@
             "showIcon": false
         },
         {
-            "label": "",
+            "label": "Profile",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
