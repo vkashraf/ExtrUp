@@ -14,14 +14,6 @@
     },
     "primaryLinks": [
         {
-            "label": "X-Offer",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Button",
             "label": "Get started",
             "altText": "",
@@ -31,6 +23,14 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "label": "X-Offer",
+            "url": "/pricing",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         },
         {
             "label": "X-Job",
