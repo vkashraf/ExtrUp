@@ -22,6 +22,17 @@
             "type": "Link"
         },
         {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "/tutut",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "X-Job",
             "altText": "Blog",
             "url": "/blog",
@@ -39,17 +50,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "type": "Button",
-            "label": "Get started",
-            "altText": "",
-            "url": "/tutut",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [
