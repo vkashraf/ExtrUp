@@ -14,6 +14,24 @@
     },
     "primaryLinks": [
         {
+            "label": "X-Offer",
+            "url": "/pricing",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "X-Job",
+            "altText": "Blog",
+            "url": "/blog",
+            "icon": "arrowUp",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "showIcon": false
+        },
+        {
             "type": "SubNav",
             "label": "X-Job",
             "altText": "X-Job",
@@ -31,24 +49,6 @@
                 }
             ],
             "labelStyle": "secondary"
-        },
-        {
-            "label": "X-Offer",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "X-Job",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowUp",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "showIcon": false
         },
         {
             "label": "Profile",
