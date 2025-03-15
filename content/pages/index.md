@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: DividerSection
-    title: Divider
+    title: 'Divider==HIGHT '
     elementId: ''
     colors: bg-light-fg-dark
     styles:
