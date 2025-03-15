@@ -14,14 +14,6 @@
     },
     "primaryLinks": [
         {
-            "label": "X-Offer",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "SubNav",
             "label": "Dropdown",
             "altText": "Dropdown",
@@ -61,6 +53,14 @@
                 }
             ],
             "labelStyle": "secondary"
+        },
+        {
+            "label": "X-Offer",
+            "url": "/pricing",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         },
         {
             "label": "X-Job",
