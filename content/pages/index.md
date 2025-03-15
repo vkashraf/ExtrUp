@@ -34,7 +34,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Digital Marketing/Social Media Marketing/Social Media Management
+      label: Digital Marketing/ Social Media Marketing/Social Media Management
       color: text-primary
       type: Badge
     elementId: ''
